@@ -1,0 +1,12 @@
+name: sol_pred
+channels:
+  - rdkit
+  - defaults
+dependencies:
+  - jupyter=1.0.0
+  - pandas=1.2.3
+  - pip=21.0.1
+  - python=3.7.10
+  - rdkit=2020.09.1.0
+  - pip:
+    - pycaret==2.3.0
