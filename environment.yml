@@ -1,4 +1,4 @@
-name: sol_pred
+name: solpred
 channels:
   - rdkit
   - defaults

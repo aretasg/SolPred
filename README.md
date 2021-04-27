@@ -14,7 +14,7 @@ conda env create -f environment.yml
 conda activate sol_pred
 ```
 
-# Validation (Unseen data) Set Metrics
+## Validation (Unseen data) Set Metrics
 | Model | MAE | RMSE | R2 |
 | --- | ---- | ---- | ---- |
 | 1 | 0.4572 | 0.4537 | 0.8886 |
@@ -23,7 +23,7 @@ conda activate sol_pred
 * Both methods performed evidently better then the orignal ESOL and comparably between each other with the former (2) having a better residual plot with less outliers
 * For all metrics and other please refer to the end of each jupyter notebook
 
-# Availability
+## Availability
 Both methods are distributed as `.pkl` files and an example script to run them
 
 ## References
