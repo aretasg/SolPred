@@ -36,6 +36,7 @@ def run_prediction(smiles: str):
 
     return prediction
 
+
 if __name__ == '__main__':
 
     smiles = 'CC(=O)OC1=CC=CC=C1C(O)=O'
