@@ -2,3 +2,4 @@ LightGBM
 logs.log
 .DS*
 .ipynb*
+__pycache__
